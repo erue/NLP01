@@ -6,7 +6,6 @@ dependencies:
   - scipy
   - matplotlib
   - pandas
-  - urllib
   - mecab-python3
   - bs4
   - joblib
